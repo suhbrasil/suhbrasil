@@ -1,7 +1,7 @@
 Hi 👋 My name is Suzana Pachelle
 ================================
 
-Web Developer
+Software Developer
 -------------
 
 Undergraduate Computer Engineer student at the Federal Technological University of Parana (UTFPR). I'm passionate about Web Development.
